@@ -1,3 +1,4 @@
 # P.I. Works
- ![Image](images/image.jpg)
+![Image](https://github.com/mmerve1/P.I.-Works/raw/main/images/image.png)
+
 
