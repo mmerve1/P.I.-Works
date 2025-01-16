@@ -1,0 +1,73 @@
+.register-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.register-left,
+.register-right {
+  flex: 1;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-form label {
+  margin: 8px 0 4px;
+}
+
+.register-form input {
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.register-button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.register-button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  color: red;
+}
+
+.register-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.register-section .login-link {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.register-section .login-link:hover {
+  text-decoration: underline;
+}
