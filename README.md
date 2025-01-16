@@ -4,7 +4,7 @@
 ### 1. Install Server Dependencies
 Navigate to the `server` directory and run the following command to install the necessary node modules:npm install
 
-###2.Running the Project
+### 2. Install Client Dependencies
 Start the Server
 To start the server, follow these steps:
 
